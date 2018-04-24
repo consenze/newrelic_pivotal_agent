@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 gem "newrelic_plugin"
-gem 'rabbitmq_manager', git: "https://github.com/fr33z3/rabbitmq_manager.git"
+gem 'rabbitmq_manager', git: "https://github.com/consenze/rabbitmq_manager.git"
 gem "redis"
 gem "daemons"
